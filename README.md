@@ -19,3 +19,12 @@ Conclusion: All 4 models are better than picking the home team (45%) and randoml
 TODO:
   - Create [Machine Learning Playground](https://ml-playground.com/) to interact and vizualize results
   - More data (add features available before match like vegas odds, last 5 game averages, etc)
+
+
+
+
+
+
+Donations directly fund our development efforts and cover essential hosting expenses.
+
+<a href="https://buymeacoffee.com/michaelromerojr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
